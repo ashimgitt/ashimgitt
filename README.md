@@ -1,5 +1,5 @@
 # Hi 👋, I'm Ashim Barman.
-**A passionate Data & Reporting Analyst || Power BI || Excel || SQL || Python ||**
+**A Passionate Data & Reporting Analyst || Power BI || Excel || SQL || Python ||**
 
 Email Me 👉 ✉️ **ashim248@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
