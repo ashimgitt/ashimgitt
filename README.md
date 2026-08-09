@@ -23,8 +23,6 @@ Email Me 👉 ✉️ **ashim248@gmail.com** For Collaboration/Project or Anythin
 ![](https://streak-stats.demolab.com/?user=ashimgitt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashimgitt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashimgitt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Snake Game Repo View -->
