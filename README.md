@@ -4,7 +4,8 @@
 
 <img width="1973" height="783" alt="Linkedin Cover - GPT" src="https://github.com/user-attachments/assets/40c20c0f-d86e-4397-9eee-182dbf9d2ed0" />
 
-Email Me 👉 ✉️ **ashim248@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+## Email Me 👉 ✉️ **ashim248@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Building end-to-end Data Analytics projects using real-world datasets and business case studies.
 - 🌱 **I’m currently learning:** SQL, Python, Power BI, DAX, Statistics, and Data Visualization.
