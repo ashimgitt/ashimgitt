@@ -1,5 +1,8 @@
 # Hi 👋, I'm Ashim Barman.
+
 **A Passionate Data & Reporting Analyst || Power BI || Excel || SQL || Python ||**
+
+<img width="1973" height="783" alt="Linkedin Cover - GPT" src="https://github.com/user-attachments/assets/40c20c0f-d86e-4397-9eee-182dbf9d2ed0" />
 
 Email Me 👉 ✉️ **ashim248@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -22,12 +25,6 @@ Email Me 👉 ✉️ **ashim248@gmail.com** For Collaboration/Project or Anythin
 ![](https://github-readme-stats.shion.dev/api?username=ashimgitt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ashimgitt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashimgitt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ iGame
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
